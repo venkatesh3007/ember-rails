@@ -7,4 +7,4 @@ end
 
 #gem 'handlebars-source', '~> 1.0.12'
 #gem 'ember-source', '1.0.0.rc6.2'
-gem 'ember-data-source', git: 'https://github.com/venkatesh3007/data.git', branch: 'master'
+gem 'ember-data-source', git: 'https://github.com/venkatesh3007/data.git', tag: 'v1.0.0-beta.8'
